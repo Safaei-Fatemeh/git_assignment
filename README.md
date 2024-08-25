@@ -1,1 +1,1 @@
-# Git Assignment - <Safaei-Fatemeh>
+# Git Assignment - Safaei-Fatemeh

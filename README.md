@@ -39,4 +39,3 @@ The main branch is the default and primary branch in a Git repository.
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?  
 No, it is better to create a new branch, make changes, and open a pull request to merge them into the main branch.
-

@@ -1,4 +1,4 @@
-# Git Assignment - <Safaei-Fatemeh>
+# Git Assignment - Safaei-Fatemeh
 
 a. What is an issue?  
 Issues are used to track todos, bugs, feature requests, and more. In fact, It is a feature on GitHub that allows us to track requested changes and features in a software project.
